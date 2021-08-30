@@ -1,0 +1,14 @@
+.MB {
+  width: 400px;
+  height: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 450px;
+}
+
+img{
+  margin-left: 150px;
+  max-width: 600px;
+	height: 150px;
+}
